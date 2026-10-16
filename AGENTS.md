@@ -1,5 +1,3 @@
-žée
-
 ## Organization-Wide Finish-First Workspace Policy
 
 This policy is mandatory for every human and agent working in this repository.
